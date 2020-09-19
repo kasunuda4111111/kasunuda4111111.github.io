@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-19T13:45:39.265Z</updated>
+  <updated>2020-09-19T13:53:00.957Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,21 +21,27 @@
     <link href="http://example.com/2020/09/19/%E3%80%90%E7%BF%BB%E8%AF%91%E3%80%91%E6%80%A8%E9%9C%8A%E3%82%B5%E3%83%B3%E3%83%90%E3%80%90%E3%81%A6%E3%81%AB%E3%81%BF%E3%81%8D%E3%82%82%E3%82%93%E3%80%91/"/>
     <id>http://example.com/2020/09/19/%E3%80%90%E7%BF%BB%E8%AF%91%E3%80%91%E6%80%A8%E9%9C%8A%E3%82%B5%E3%83%B3%E3%83%90%E3%80%90%E3%81%A6%E3%81%AB%E3%81%BF%E3%81%8D%E3%82%82%E3%82%93%E3%80%91/</id>
     <published>2020-09-19T13:30:38.000Z</published>
-    <updated>2020-09-19T13:45:39.265Z</updated>
+    <updated>2020-09-19T13:53:00.957Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h4&gt;&lt;span id=&quot;怨霊サンバ&quot;&gt;怨霊サンバ&lt;/span&gt;&lt;/h4&gt;&lt;h6&gt;&lt;span id=&quot;怨灵桑巴&quot;&gt;怨灵桑巴&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;span</summary>
+    <summary type="html">&lt;h4&gt;&lt;span id=&quot;怨霊サンバ&quot;&gt;怨霊サンバ&lt;/span&gt;&lt;/h4&gt;&lt;h6&gt;&lt;span id=&quot;怨灵桑巴&quot;&gt;怨灵桑巴&lt;/span&gt;&lt;/h6&gt;&lt;p&gt;Music&amp;amp;Lyric:てにみきもん&lt;/p&gt;
+&lt;p&gt;译：kasunuda&lt;/p&gt;
+&lt;p&gt;呪えサンバ </summary>
         
       
     
     
     
     
-    <category term="てにをは, みきと, emon." scheme="http://example.com/tags/%E3%81%A6%E3%81%AB%E3%82%92%E3%81%AF-%E3%81%BF%E3%81%8D%E3%81%A8-emon/"/>
+    <category term="てにをは" scheme="http://example.com/tags/%E3%81%A6%E3%81%AB%E3%82%92%E3%81%AF/"/>
+    
+    <category term="みきと" scheme="http://example.com/tags/%E3%81%BF%E3%81%8D%E3%81%A8/"/>
+    
+    <category term="emon." scheme="http://example.com/tags/emon/"/>
     
   </entry>
   
