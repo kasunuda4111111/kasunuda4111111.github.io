@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-19T16:44:04.514Z</updated>
+  <updated>2020-09-19T17:28:12.071Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【翻译】Junky Night Town Orchestra【すりぃ】</title>
+    <link href="http://example.com/2020/09/20/%E3%80%90%E7%BF%BB%E8%AF%91%E3%80%91Junky-Night-Town-Orchestra%E3%80%90%E3%81%99%E3%82%8A%E3%81%83%E3%80%91/"/>
+    <id>http://example.com/2020/09/20/%E3%80%90%E7%BF%BB%E8%AF%91%E3%80%91Junky-Night-Town-Orchestra%E3%80%90%E3%81%99%E3%82%8A%E3%81%83%E3%80%91/</id>
+    <published>2020-09-19T17:15:50.000Z</published>
+    <updated>2020-09-19T17:28:12.071Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h5&gt;&lt;span id=&quot;ジャンキーナイトタウンオーケストラ&quot;&gt;ジャンキーナイトタウン・オーケストラ&lt;/span&gt;&lt;/h5&gt;&lt;h6&gt;&lt;span id=&quot;junky-night-town-orchestra&quot;&gt;Junky Night town</summary>
+        
+      
+    
+    
+    
+    
+    <category term="すりぃ" scheme="http://example.com/tags/%E3%81%99%E3%82%8A%E3%81%83/"/>
+    
+  </entry>
   
   <entry>
     <title>【翻译】怨霊サンバ【てにみきもん】</title>
