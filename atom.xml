@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-19T17:33:41.740Z</updated>
+  <updated>2020-10-23T12:01:32.833Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【翻译】FUNE【P-MODEL】</title>
+    <link href="http://example.com/2020/10/23/%E3%80%90%E7%BF%BB%E8%AF%91%E3%80%91FUNE%E3%80%90P-MODEL%E3%80%91/"/>
+    <id>http://example.com/2020/10/23/%E3%80%90%E7%BF%BB%E8%AF%91%E3%80%91FUNE%E3%80%90P-MODEL%E3%80%91/</id>
+    <published>2020-10-23T11:42:43.000Z</published>
+    <updated>2020-10-23T12:01:32.833Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;FUNE&lt;/p&gt;
+&lt;br&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;曲诗：P-MODEL&lt;br&gt;词：平泽进、小西建司&lt;br&gt;译：kasunuda&lt;/p&gt;
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;p&gt;海隔てて 声を聞いた&lt;br&gt;远隔重洋 遥闻此声&lt;/p&gt;
+&lt;p&gt;船仕立てて 名付けよ</summary>
+        
+      
+    
+    
+    
+    
+    <category term="P-MODEL" scheme="http://example.com/tags/P-MODEL/"/>
+    
+  </entry>
   
   <entry>
     <title>【翻译】Junky Night Town Orchestra【すりぃ】</title>
